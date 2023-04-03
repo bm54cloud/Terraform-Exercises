@@ -1,0 +1,11 @@
+terraform.tf
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+*.terraform.lock.hcl
+*.log
+.terraform/
+MyAWSKey.pem
+
